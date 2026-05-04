@@ -22,23 +22,20 @@ Aplikasi ini dibangun dengan menjawab tiga tantangan utama yang diberikan:
 
 **Halaman Beranda (Homepage) :**
 
-<img width="250" alt="home" src="https://github.com/user-attachments/assets/b42e8f74-f46b-4860-9cde-bf3c21400738" /> <img width="250" alt="home (tengah)" src="https://github.com/user-attachments/assets/81a6cccb-c97a-4d86-8fd4-ac101e7f1cff" /> <img width="250"  alt="home (bawah)" src="https://github.com/user-attachments/assets/61c9d336-5dee-468b-bb09-8833a63bf562" />
-
-
-
+<img width="250" alt="home" src="https://github.com/user-attachments/assets/df834ae3-218f-43f7-b47d-1cb4bd1bf4b1" /> <img width="250" alt="home (tengah)" src="https://github.com/user-attachments/assets/029bb82f-fead-4ed7-aa44-08fa9d8ed63b" />
+<img width="250" alt="home (bawah)" src="https://github.com/user-attachments/assets/36192875-cb13-4dc0-9983-5a15847c32bf" />
 
 
 **Halaman Struktur Kepengurusan :**
 
-<img width="250" alt="page 2" src="https://github.com/user-attachments/assets/869cf5b1-7adc-4978-8afe-076d70e57cf4" /> <img width="250" alt="page 2 (bawah)" src="https://github.com/user-attachments/assets/64c9f610-73bb-45ff-b17c-3c9d7e362923" />
-
-
+<img width="250" alt="page 2" src="https://github.com/user-attachments/assets/5db29fd6-d1d0-436f-8d35-7d495033ef9d" />
+<img width="250" alt="page 2 (bawah)" src="https://github.com/user-attachments/assets/e4cb8ca7-881a-4fb0-bc71-80878c3e9ebb" />
 
 
  **Halaman Detail Pengurus :**
  (contoh salah satu halaman detail pengurus)
  
- <img width="250"  alt="page 3" src="https://github.com/user-attachments/assets/43e22940-d29d-4bce-8730-aa7ed0e0e350" />
+<img width="250" alt="page 3" src="https://github.com/user-attachments/assets/422cb05d-2ebd-44eb-8a60-9c56931ce4f7" />
 
 
 ## Cara Menjalankan Aplikasi
